@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://meek-axolotl-9497c1.netlify.app/)
+[Live Site URL](https://meek-axolotl-9497c1.netlify.app/)
 
 ## My process
 

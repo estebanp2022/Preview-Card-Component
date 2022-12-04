@@ -115,9 +115,10 @@ svg {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+  text-decoration: none;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   .container {
     width: 350px;
     height: 70%;
